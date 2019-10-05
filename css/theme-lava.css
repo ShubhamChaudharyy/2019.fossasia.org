@@ -394,7 +394,9 @@ p a,
   -moz-transition: all 0.3s ease-out;
   font-weight: 600;
   line-height: 1;
+  margin-bottom: 4px;
 }
+
 .btn:hover {
   color: #fff;
   background: #c82600;
